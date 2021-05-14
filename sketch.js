@@ -11,11 +11,11 @@ function preload()
 {
 
   //loading images here
-  dogImg = loadImage("images/dogImg.png");
-  happyDogImg = loadImage("images/dogImg1.png");
-  bedroomImg = loadImage("virtual pet images/Bed Room.png");
-  gardenImg = loadImage("virtual pet images/Garden.png");
-  washroomImg = loadImage("virtual pet images/Wash Room.png");
+  dogImg = loadImage("dogImg.png");
+  happyDogImg = loadImage("dogImg1.png");
+  bedroomImg = loadImage("Bed Room.png");
+  gardenImg = loadImage("Garden.png");
+  washroomImg = loadImage("Wash Room.png");
 
 }
 
